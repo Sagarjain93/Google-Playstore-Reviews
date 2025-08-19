@@ -92,8 +92,7 @@ Key areas explored:
 *  By combining app metadata with user sentiments, we highlight both quantitative and qualitative factors that influence installs and ratings, helping stakeholders better understand the dynamics of the app marketplace.
 
 **Author**
-Sagar Jain
-LinkedIn : https://www.linkedin.com/in/sagar-jain-558172162/
-✅ Conclusion
 
-This EDA provides actionable insights into what drives app success in the Google Play Store. By combining app metadata with user sentiments, we highlight both quantitative and qualitative factors that influence installs and ratings, helping stakeholders better understand the dynamics of the app marketplace.
+Sagar Jain
+
+LinkedIn : https://www.linkedin.com/in/sagar-jain-558172162/
